@@ -2,8 +2,9 @@
 
 <param ve-config 
        title="Sandford and Merton, in Words of One Syllable" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
+       banner="https://cuny907.sharepoint.com/sites/SpecialCollectionsArchives/_api/siteiconmanager/getsitelogo?type=%271%27&hash=637730188857494809" 
+       layout="vertical"
+       author="Melissa Lino">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -13,11 +14,12 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Sandford and Merton
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat fermentum neque quis viverra. Nunc quis lacus laoreet, porta ante ut, varius neque. Suspendisse commodo, nibh id dapibus tincidunt, enim turpis ultrices magna, vitae iaculis nunc nunc vel nibh. Nam ac est at massa vestibulum hendrerit. Ut sed dictum sapien, et mollis felis. Fusce vulputate turpis in turpis iaculis porta. Curabitur lorem sapien, feugiat eu leo quis, auctor posuere odio. Vivamus bibendum dignissim felis ut placera
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       title="Sandford and Merton"
+       url="http://19thcenturyjuvenileseries.com/images/os1_v3b_mcloughlin_md.jpg">
 
 # Basic usage
 

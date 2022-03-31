@@ -7,7 +7,7 @@
 
 - Melissa Lino
 
-![](http://19thcenturyjuvenileseries.com/images/os1_v3b_mcloughlin_md.jpg)
+![](https://i.etsystatic.com/7109089/r/il/a78cdc/1231529546/il_1588xN.1231529546_evxw.jpg)
 
 
 

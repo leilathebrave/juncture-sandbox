@@ -1,6 +1,6 @@
 <param ve-config title="Representations of Victorian Childhood">
 
-# Featured Exhibits {.cards}
+# Browse the Exhibit {.cards}
 
 ## 
 [**Sandford and Merton, in Words of One Syllable by Mary Godolphin**](/sandford)

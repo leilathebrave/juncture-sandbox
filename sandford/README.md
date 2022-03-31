@@ -21,29 +21,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat fer
        title="Sandford and Merton"
        url="https://i.etsystatic.com/7109089/r/il/a78cdc/1231529546/il_1588xN.1231529546_evxw.jpg">
 
-# Basic usage
+# Inscriptions
 
-## Image
+## Front Endpaper
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+Take photos of front cover, back cover (listing of the publisher’s catalog of children’s books), inscription on front endpaper: “Presented to Arthur Thompson- By his mother for progress in his studies, February 10th 1880”).
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="http://19thcenturyjuvenileseries.com/images/os1_v3b_mcloughlin_md.jpg">
+       title="Front Endpaper"
+   url="https://upload.wikimedia.org/wikipedia/commons/2/28/Marginalia_from_Opticks_or%2C_A_treatise_of_the_reflexions%2C_refractions%2C_inflexions_and_colours_of_light.png">
 
-## Map
+## Scribbles
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+It also seems like Arthur may have tried writing his own name on the back endpaper, but it’s backwards and there are some other scribbles obscuring it.
+<param ve-image
+       title="Scribbles"
+       url="https://en.wikipedia.org/wiki/Marginalia#/media/File:Kirchhofer_Wahrheit_und_Dichtung_016.jpg">
